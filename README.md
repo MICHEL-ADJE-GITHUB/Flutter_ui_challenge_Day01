@@ -11,7 +11,7 @@ flutter run
 
 ## ScreenShots
 
-<img src="assets/screenshot/screenshot.jpg" height="500em" /> 
+<img src="assets/screenshot/Screenshot.jpg" height="500em" /> 
 
 ## Links
 
